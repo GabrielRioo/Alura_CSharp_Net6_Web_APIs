@@ -1,0 +1,59 @@
+# Arquivos de compilação e saída
+bin/
+obj/
+
+# Arquivos de projeto
+*.user
+*.suo
+*.sln.docstates
+
+# Arquivos gerados
+_PublishedWebsites/
+node_modules/
+npm-debug.log
+yarn-error.log
+.vscode/
+/.vscode/
+.DS_Store
+
+# Diretório de pacotes do NuGet
+packages/
+
+# Configuração de usuário local
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+
+# Logs e outros arquivos gerados em tempo de execução
+*.log
+*.logs
+
+# Arquivos temporários
+*.bak
+*.swp
+*.swo
+*~
+
+# Cache de ReSharper
+_ReSharper.*/
+
+# Cache de Rider
+.idea/
+
+# Arquivos de configuração do Visual Studio
+.vsconfig
+
+# Ferramentas específicas
+Thumbs.db
+Desktop.ini
+
+# Arquivos do Windows
+ehthumbs.db
+
+# Arquivos de miniaturas
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio 2022 config folder
+.vs2022/

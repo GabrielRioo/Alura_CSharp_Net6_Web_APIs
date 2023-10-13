@@ -47,3 +47,5 @@ E:\Gabriel\3. Estudo\2. Github\Csharp\FilmesApi\FilmesApi\bin\Debug\net6.0\Syste
 E:\Gabriel\3. Estudo\2. Github\Csharp\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 E:\Gabriel\3. Estudo\2. Github\Csharp\FilmesApi\FilmesApi\bin\Debug\net6.0\System.Text.Json.dll
 E:\Gabriel\3. Estudo\2. Github\Csharp\FilmesApi\FilmesApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Gabriel\3. Estudo\2. Github\Csharp\FilmesApi\FilmesApi\bin\Debug\net6.0\AutoMapper.dll
+E:\Gabriel\3. Estudo\2. Github\Csharp\FilmesApi\FilmesApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

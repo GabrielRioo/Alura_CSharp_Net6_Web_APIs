@@ -17,7 +17,7 @@ public class CinemaProfile : Profile
 			)
 			.ForMember(
 				cinemaDto => cinemaDto.Sessoes,
-				opt => opt.MapFrom(cinema => cinema.Sessao)
+				opt => opt.MapFrom(cinema => cinema.Sessoes)
 			);
 	}
 }
